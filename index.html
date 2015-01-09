@@ -35,6 +35,11 @@
 {% endif %}
                 <p>{{ event.location1 }}</p>
                 <p class="location">{{ event.location2 }}</p>
+{% if event.sponsor-link != ""  %}
+                <p class="sponsor"><a href="{{ event.sponsor-link }}">{{ event.sponsor}}</a></p>
+{% else %}
+                <p class="sponsor">{{ event.sponsor}}</p>
+{% endif %}
             </div>
 {% endfor %}
         </div>

@@ -178,6 +178,8 @@ li {
       text-align: center; }
     .events-inner .event p {
       text-align: center; }
+    .events-inner .event p.sponsor {
+      font-size: 12px; }
   @media all and (min-width: 720px) {
     .events-inner {
       padding-top: 20px; }

@@ -221,6 +221,9 @@ li {
         p {
             text-align: center;
         }
+        p.sponsor {
+            font-size: 12px;
+        }
     }
     @include mq(720px) {
         & {
