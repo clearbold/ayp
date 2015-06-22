@@ -82,6 +82,9 @@ p, li {
 li {
   margin-bottom: 20px; }
 
+a.logo {
+  text-decoration: none; }
+
 .header {
   background: #00526a;
   padding-top: 30px; }
