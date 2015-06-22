@@ -410,6 +410,46 @@ li {
     }
 }
 
+.members-outer {
+    @extend .wrapper-outer;
+}
+.members-inner {
+    @extend .wrapper-inner;
+    @media screen and (max-width: 990px) {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    text-align: left;
+    table {
+        width: 100%;
+    }
+    table tr td {
+        padding-top: 3px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        vertical-align: top;
+    }
+    table tr.odd td {
+        background: #efefef;
+    }
+    @media screen and (max-width: 990px) {
+        table tr td {
+            display: block;
+            font-size: 14px;
+            padding-top: 0;
+            padding-bottom: 0;
+            width: 100%;
+        }
+        table tr td:first-child {
+            padding-top: 10px;
+        }
+        table tr td:last-child {
+            padding-bottom: 10px;
+        }
+    }
+}
+
 .contact-outer {
     @extend .wrapper-outer;
 }

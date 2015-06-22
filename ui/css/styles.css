@@ -137,16 +137,16 @@ li {
     font-style: italic;
     text-transform: lowercase; }
 
-.wrapper-outer, .events-outer, .mission-outer, .benefits-outer, .committee-outer, .contact-outer {
+.wrapper-outer, .events-outer, .mission-outer, .benefits-outer, .committee-outer, .members-outer, .contact-outer {
   padding-top: 40px;
   padding-bottom: 40px;
   width: 100%; }
   @media all and (min-width: 640px) {
-    .wrapper-outer, .events-outer, .mission-outer, .benefits-outer, .committee-outer, .contact-outer {
+    .wrapper-outer, .events-outer, .mission-outer, .benefits-outer, .committee-outer, .members-outer, .contact-outer {
       padding-top: 80px;
       padding-bottom: 80px; } }
 
-.wrapper-inner, .events-inner, .mission-inner, .benefits-inner, .committee-inner, .contact-inner {
+.wrapper-inner, .events-inner, .mission-inner, .benefits-inner, .committee-inner, .members-inner, .contact-inner {
   *zoom: 1;
   margin-right: auto;
   margin-left: auto;
@@ -154,10 +154,10 @@ li {
   padding-right: 20px;
   padding-left: 20px;
   width: 100%; }
-  .wrapper-inner:before, .events-inner:before, .mission-inner:before, .benefits-inner:before, .committee-inner:before, .contact-inner:before, .wrapper-inner:after, .events-inner:after, .mission-inner:after, .benefits-inner:after, .committee-inner:after, .contact-inner:after {
+  .wrapper-inner:before, .events-inner:before, .mission-inner:before, .benefits-inner:before, .committee-inner:before, .members-inner:before, .contact-inner:before, .wrapper-inner:after, .events-inner:after, .mission-inner:after, .benefits-inner:after, .committee-inner:after, .members-inner:after, .contact-inner:after {
     content: "";
     display: table; }
-  .wrapper-inner:after, .events-inner:after, .mission-inner:after, .benefits-inner:after, .committee-inner:after, .contact-inner:after {
+  .wrapper-inner:after, .events-inner:after, .mission-inner:after, .benefits-inner:after, .committee-inner:after, .members-inner:after, .contact-inner:after {
     clear: both; }
 
 .events-outer {
@@ -319,6 +319,34 @@ li {
       margin-bottom: 10px; }
     .committee-inner div p {
       font-size: 12px; }
+
+.members-inner {
+  text-align: left; }
+  @media screen and (max-width: 990px) {
+    .members-inner {
+      padding-right: 0;
+      padding-left: 0; } }
+  .members-inner table {
+    width: 100%; }
+  .members-inner table tr td {
+    padding-top: 3px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    vertical-align: top; }
+  .members-inner table tr.odd td {
+    background: #efefef; }
+  @media screen and (max-width: 990px) {
+    .members-inner table tr td {
+      display: block;
+      font-size: 14px;
+      padding-top: 0;
+      padding-bottom: 0;
+      width: 100%; }
+    .members-inner table tr td:first-child {
+      padding-top: 10px; }
+    .members-inner table tr td:last-child {
+      padding-bottom: 10px; } }
 
 .contact-inner div {
   margin-bottom: 80px;

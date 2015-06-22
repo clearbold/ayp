@@ -1,0 +1,59 @@
+---
+---
+<!--[if i]><![endif]--><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
+    <!--[if gte IE 9]><!-->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="/ui/css/styles.css" />
+    <!-- <![endif]-->
+    <link type="text/plain" rel="author" href="/humans.txt" />
+    <title>Young Professionals of Amherst, MA</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="robots" content="index,follow,archive" />
+</head>
+<body>
+    <div class="header">
+        <div class="logo-top">Young<br /><span>Professionals</span></div>
+    </div>
+    <div class="logo-bottom"><span>of</span>&nbsp;Amherst</div>
+
+    <div class="members-outer">
+        <div class="members-inner">
+            <h2>Member Directory</h2>
+            <table border="0" cellpadding="0" cellspacing="0">
+{% for member in site.data.members| sort: 'lastname' %}
+                <tr class="{% cycle 'odd', 'even' %}">
+                    <td>{{ member.firstname }}</td>
+                    <td>{{ member.lastname }}</td>
+                    <td>{{ member.business }}</td>
+                    <td>{{ member.email }}</td>
+                    <td>{{ member.phone }}</td>
+                </tr>
+{% endfor %}
+            </table>
+        </div>
+    </div>
+
+    <div class="contact-outer">
+        <div class="contact-inner">
+            <h2>Get in Touch</h2>
+
+            <div>
+                <a href="mailto:youngprofessionalsamherst@gmail.com"><span class="icon icon-mail"></span><span class="visuallyhidden"> Email</span><p>youngprofessionalsamherst @&nbsp;gmail.com</a>
+            </div>
+            <div>
+                <a href="http://facebook.com/YPAmherst"><span class="icon icon-facebook"></span><span class="visuallyhidden"> Facebook</span><p>facebook.com/YPAmherst</p></a>
+            </div>
+            <div>
+                <a href="http://twitter.com/ypamherst"><span class="icon icon-twitter"></span><span class="visuallyhidden"> Twitter</span><p>@ypamherst</p></a>
+            </div>
+
+            <p class="clearbold">Designed &amp; Built by <a href="http://clearbold.com">Clearbold&nbsp;Digital&nbsp;know-how</a>.</p>
+        </div>
+    </div>
+</body>
+</html>
