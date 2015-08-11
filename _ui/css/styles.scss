@@ -417,11 +417,13 @@ a.logo {
     @extend .wrapper-outer;
 }
 .members-inner {
-    @extend .wrapper-inner;
-    @media screen and (max-width: 990px) {
+    //@extend .wrapper-inner;
+    /*@media screen and (max-width: 990px) {
         padding-right: 0;
         padding-left: 0;
-    }
+    }*/
+    padding-right: 20px;
+    padding-left: 20px;
     text-align: left;
     table {
         width: 100%;
