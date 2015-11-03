@@ -93,7 +93,7 @@
                 <h4 class="name">{{ member.name }}</h4>
                 <h4 class="position">{{ member.position }}</h4>
                 <h4 class="profession">{{ member.profession }}</h4>
-                <p>{{ member.phone }} / <a href="mailto:{{ member.email }}">Email</a></p>
+                {% if member.email != '' %}<p>{{ member.phone }} / <a href="mailto:{{ member.email }}">Email</a></p>{% endif %}
             </div>
 {% endfor %}
             <p><a href="/members">Member Directory</a></p>
