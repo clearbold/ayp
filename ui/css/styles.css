@@ -252,6 +252,13 @@ a.logo {
       .events-inner .event {
         width: 260px; } }
 
+.events-photos-link {
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase; }
+
 .mission-outer {
   background: #ccc;
   padding-top: 40px;

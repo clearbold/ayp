@@ -317,6 +317,13 @@ a.logo {
         }
     }
 }
+.events-photos-link {
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
 .mission-outer {
     @extend .wrapper-outer;
     background: #ccc;
