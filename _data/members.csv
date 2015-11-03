@@ -1,5 +1,5 @@
 firstname,lastname,title,business,email,phone,show
-Matthew,Ahmed,,Jones Group Realtors,matthew@jonesrealtors.com,(413) 687-2086,n
+Matthew,Ahmed, Broker,Jones Group Realtors,matthew@jonesrealtors.com,(413) 687-2086,y
 Eric,Almeida,,Hampshire Hospitality,corporatesales@hhgmail.com,(413) 586-3910,n
 Lindsay,Barron,,Applied Mortgage,lbarron@merrimackmortgage.com,(413) 320-1641,n
 Benjamin,Beauchaine,,Liberty Mutual Insurance,benjamin.beauchaine@libertymutual.com,(413) 313-2298,y
@@ -11,8 +11,8 @@ Samantha,Coulter,,Hampshire College,scoulter@hampshire.edu,(413) 559-5610,n
 Kristen,Champoux,,Hawkinson/PRx Performance,kristenc@prxperformance.com,(617) 893-8888,y
 Don,Courtemanche,,Amherst Area Chamber of Commerce,don@amherstarea.com,(413) 636-9788,y
 Erin,Couture,,Florence Bank,erin.couture@florencebank.com,(413)587-1728,y
-Thomas,Crossman,,Crossman Properties,crossmanpropertiesamherst@gmail.com,(413) 687-7582,y
-Jerome,Cunniff,,Soundscape Imaging,jeremycc2002@gmail.com,(207) 749-3890,y
+Thomas,Crossman,Owner,Crossman Properties,crossmanpropertiesamherst@gmail.com,(413) 687-7582,y
+Jerome,Cunniff,,Soundscape Merchandise,jerome@soundscapemerchandise.com,(207) 749-3890,y
 Wendy,Dagle,,University of Massachusetts,wdagle@gmail.com,(508) 801-6741,n
 Kate,Daly,,Amherst Insurance Agency,kdaly@nathanagencies.com,(413) 253-5555,y
 Nate,Davis,,TD Bank,nathan.davis2@td.com,(413) 253-1458,n
@@ -23,7 +23,7 @@ Ryan,Footit,,Pacific Scientific Transport,footitryan5@gmail.com,(413) 695-3460,n
 Sarah,Fox,,Encharter Insurance,sfox@encharter.com,(860) 710-5922,n
 Allison,Furkey,,"Isenberg School of Management, UMass",afurkey@gmail.com,(413) 896-4967,n
 Jenicca,Gallagher,,Northampton Cooperative Bank,jenicca.gallagher@northamptoncoop.com,(413) 658-0073,y
-Brian,Giggey,,"Soundscape Imaging, artALIVE, Explore Disc Golf",info@soundscapeimaging.com,(413) 355-0410,y
+Brian,Giggey,Owner,"Soundscape Merchandise, Explore Disc Golf",briand@soundscapemerchandise.com,(413) 355-0410,y
 Annamarie,Grise,,University of Massachusetts,grise@umass.edu,(413) 577-8232,y
 Trista,Hevey,,University of Massachusetts,thevey@gmail.com,(413) 281-3942,y
 Pat,Howley,,University of Massachusetts,phowley@umass.edu,(724) 766-0965,y
@@ -41,8 +41,8 @@ Jocelyn,Nelson,,Big Brothers Big Sisters of Hampshire County,jnelson@chd.org,(41
 Patrick,O'Loughlin,,Minutemen Equity Fund,poloughlin22@gmail.com,(978) 408-6275,n
 Josh,Seamon,Mathematics Department Head,The Williston Northampton School,jseamon@williston.com,(802) 748-9857,y
 Kurt,Siegmann,Counter Sales Representative,Graybar Electric Inc.,kurt.siegmann@gmail.com,(413) 788-2044,y
-Abby,Stern,,MBL Housing and Development,abby.przybylowski@gmail.com,(732) 948-7124,n
-Nicholas,Stern,,Robert L. Stern Financial Services,nstern@rlsternfinancial.com,(413) 374-9346,y
+Abby,Stern,Project Manager,MBL Housing and Development,abby.przybylowski@gmail.com,(732) 948-7124,n
+Nicholas,Stern,CERTIFIED FINANCIAL PLANNER™ professional, Robert L. Stern Financial Services,nstern@rlsternfinancial.com,(413) 374-9346,y
 Keith,Toffling,,KT Photo Co,keith@kt-photo.co,(978) 866-7671,n
 Angela,Varilly,,Greenfield Savings Bank,avarilly@greenfieldsavings.com,(413) 775-8252,y
 Caitlin,Waskiewicz,,Boston Beer Company,caitlin.waskiewicz@bostonbeer.com,(413) 695-5838,n
