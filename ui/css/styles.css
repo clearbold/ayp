@@ -375,6 +375,13 @@ a.logo {
     .contact-inner div {
       float: left;
       width: 33%; } }
+.contact-inner p.sponsor {
+  text-align: center; }
+  .contact-inner p.sponsor img {
+    display: block;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto; }
 .contact-inner p.clearbold {
   text-align: center; }
   .contact-inner p.clearbold a {

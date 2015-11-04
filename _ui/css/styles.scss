@@ -486,7 +486,15 @@ a.logo {
             width: 33%;
         }
     }
-
+    p.sponsor {
+        text-align: center;
+        img {
+            display: block;
+            margin-right: auto;
+            margin-bottom: 20px;
+            margin-left: auto;
+        }
+    }
     p.clearbold {
         text-align: center;
         a {
