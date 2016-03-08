@@ -1,7 +1,7 @@
 firstname,lastname,title,business,email,phone,show
 Matthew,Ahmed, Broker,Jones Group Realtors,matthew@jonesrealtors.com,(413) 687-2086,y
 Lindsay,Barron,,Applied Mortgage,lbarron@merrimackmortgage.com,(413) 320-1641,y
-Angela, Batttle, Parish Adminstrator, Grace Episcopal Church, abattle@gracechurchamherst.org, (413) 256-6754, y
+Angela,Batttle,Parish Adminstrator,Grace Episcopal Church,abattle@gracechurchamherst.org,(413) 256-6754, y
 Benjamin,Beauchaine,,Liberty Mutual Insurance,benjamin.beauchaine@libertymutual.com,(413) 313-2298, y
 Ben,Blodgett,,University of Massachusetts,bblodgett@umass.edu,(850) 341-3916,y
 Morgan,Boisseau,,Family Chiropractic Center,morganboisseau23@gmail.com,(413) 386-3848,n
@@ -41,7 +41,7 @@ Jocelyn,Nelson,,Big Brothers Big Sisters of Hampshire County,jnelson@chd.org,(41
 Patrick,O'Loughlin,,Minutemen Equity Fund,poloughlin22@gmail.com,(978) 408-6275,n
 Josh,Seamon,Mathematics Department Head,The Williston Northampton School,jseamon@williston.com,(802) 748-9857,y
 Kurt,Siegmann,Counter Sales Representative,Graybar Electric Inc.,kurt.siegmann@gmail.com,(413) 788-2044,y
-Abby,Stern,Project Manager,MBL Housing and Development,abby.przybylowski@gmail.com,(732) 948-7124,n
+Abby,Stern,Project Manager,MBL Housing and Development,abby.przybylowski@gmail.com,(732) 948-7124,y
 Nicholas,Stern,CERTIFIED FINANCIAL PLANNER™ professional, Robert L. Stern Financial Services,nstern@rlsternfinancial.com,(413) 374-9346,y
 Keith,Toffling,,KT Photo Co,keith@kt-photo.co,(978) 866-7671,n
 Angela,Varilly,,Greenfield Savings Bank,avarilly@greenfieldsavings.com,(413) 775-8252,y
