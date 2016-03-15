@@ -1,4 +1,4 @@
 "timestamp","month","date","time","event-name","location1","location2","link","sponsor","sponsor-link"
-"20160301","March","16","5:00pm","March Madness!","The Hangar","10 University Drive, Amherst, MA","Sponsored by Deutsche Asset & Wealth Management","",""
+"20160301","March","16","5:00pm","March Madness!","The Hangar","10 University Drive, Amherst, MA","","Sponsored by Deutsche Asset & Wealth Management",""
 "20160401","April","20","5:30pm","After Hours Event","Amherst Media","246 College St, Amherst, MA","","",""
-"20160501","May","18","5:30pm","After Hours Event","Bertucci's","51 E Pleasant St, Amherst, MA","Sponsored by Greenfield Cooperative Bank","https://www.greenfieldcoopbank.com/",""
+"20160501","May","18","5:30pm","After Hours Event","Bertucci's","51 E Pleasant St, Amherst, MA","","Sponsored by Greenfield Cooperative Bank","https://www.greenfieldcoopbank.com/"
